@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/iconswap-testnet-latest/static/css/main.782e864b.chunk.css",
+    "main.js": "/iconswap-testnet-latest/static/js/main.90cb531c.chunk.js",
+    "main.js.map": "/iconswap-testnet-latest/static/js/main.90cb531c.chunk.js.map",
+    "runtime-main.js": "/iconswap-testnet-latest/static/js/runtime-main.06a14b23.js",
+    "runtime-main.js.map": "/iconswap-testnet-latest/static/js/runtime-main.06a14b23.js.map",
+    "static/js/2.465dc554.chunk.js": "/iconswap-testnet-latest/static/js/2.465dc554.chunk.js",
+    "static/js/2.465dc554.chunk.js.map": "/iconswap-testnet-latest/static/js/2.465dc554.chunk.js.map",
+    "index.html": "/iconswap-testnet-latest/index.html",
+    "precache-manifest.f4136d8f1953c4c9cba29a20ce95183a.js": "/iconswap-testnet-latest/precache-manifest.f4136d8f1953c4c9cba29a20ce95183a.js",
+    "service-worker.js": "/iconswap-testnet-latest/service-worker.js",
+    "static/css/main.782e864b.chunk.css.map": "/iconswap-testnet-latest/static/css/main.782e864b.chunk.css.map",
+    "static/js/2.465dc554.chunk.js.LICENSE.txt": "/iconswap-testnet-latest/static/js/2.465dc554.chunk.js.LICENSE.txt",
+    "static/media/Account.c2f4c664.svg": "/iconswap-testnet-latest/static/media/Account.c2f4c664.svg",
+    "static/media/PowerOff.a76f746e.svg": "/iconswap-testnet-latest/static/media/PowerOff.a76f746e.svg",
+    "static/media/Swap.e93073b6.svg": "/iconswap-testnet-latest/static/media/Swap.e93073b6.svg",
+    "static/media/iconation.png": "/iconswap-testnet-latest/static/media/iconation.d221ee9e.png",
+    "static/media/listing.a06390f3.svg": "/iconswap-testnet-latest/static/media/listing.a06390f3.svg",
+    "static/media/logo.png": "/iconswap-testnet-latest/static/media/logo.45b9800e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06a14b23.js",
+    "static/js/2.465dc554.chunk.js",
+    "static/css/main.782e864b.chunk.css",
+    "static/js/main.90cb531c.chunk.js"
+  ]
+}
